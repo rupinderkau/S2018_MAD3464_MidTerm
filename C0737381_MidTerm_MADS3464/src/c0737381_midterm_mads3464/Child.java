@@ -5,22 +5,9 @@
  */
 package c0737381_midterm_mads3464;
 
-
-public class LambtonStringTools 
-{
-String st="Lambton";
-String rst="";
-for(int i=string.length()-1;i>=0;i--)
-{
+public class Child extends C0737381_MidTerm_MADS3464 {
     
-System.out.println("the reverse string is" + rst(i));
-        }
+    for(int i=st.length()-1;i>=0;i--)
+            rst = rst + st.charAt(i);
+         System.out.println("the reverse string is" + rst);
 }
-
-
-
-
-
-
-
-
