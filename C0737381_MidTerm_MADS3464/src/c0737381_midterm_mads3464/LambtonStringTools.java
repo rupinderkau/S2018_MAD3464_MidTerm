@@ -20,18 +20,6 @@ System.out.println("the reverse string is" + rst(i));
 
 
 
-//string a= new string("lambton");
-//System.out.println(a.reverse());
-   ///String name="Lambton";
-//modified="";
-//String str= String("Lambton");
-   
-   //for(int i=str.length()-1;i>=0;i--)
-   
-   //modified=modified+str.charAt(i);
-   
-       //System.out.println("reverse string"+modified);
-   /*}
 
 
 
