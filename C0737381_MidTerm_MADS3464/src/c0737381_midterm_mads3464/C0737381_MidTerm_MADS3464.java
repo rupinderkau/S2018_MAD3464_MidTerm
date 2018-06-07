@@ -11,9 +11,7 @@ package c0737381_midterm_mads3464;
  */
 public class C0737381_MidTerm_MADS3464 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
